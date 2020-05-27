@@ -1,2 +1,0 @@
-# kokoro
-Created with CodeSandbox
